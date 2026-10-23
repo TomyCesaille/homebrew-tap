@@ -1,5 +1,7 @@
 # TomyCesaille Tap
 
+- [`prtop`](https://github.com/TomyCesaille/prtop): a live terminal table of your merge requests, from review to production.
+
 ## How do I install these formulae?
 
 `brew install tomycesaille/tap/<formula>`
