@@ -1,6 +1,6 @@
 # TomyCesaille Tap
 
-- <img src="https://raw.githubusercontent.com/TomyCesaille/prtop/main/docs/public/favicon.svg" alt="" width="20" height="20"> [`prtop`](https://github.com/TomyCesaille/prtop): a live terminal table of your GitLab merge requests and GitHub pull requests, from review to production.
+- <img src="https://raw.githubusercontent.com/TomyCesaille/prtop/main/docs/public/favicon.svg" alt="" width="20" height="20"> [`prtop`](https://github.com/TomyCesaille/prtop): a live terminal table of your GitLab merge requests and GitHub pull requests, from review to production. Built to wake Claude Code.
 
 ## How do I install these formulae?
 
