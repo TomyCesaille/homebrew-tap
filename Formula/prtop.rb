@@ -8,9 +8,9 @@ class Prtop < Formula
   license "MIT"
 
   bottle do
-    root_url "https://github.com/TomyCesaille/homebrew-tap/releases/download/prtop-0.1.0"
-    sha256 cellar: :any_skip_relocation, arm64_tahoe:  "5136c76b501993fe5d68057856fc1e4f1dd54f0c3d81e54af9f682d32dcfb3e8"
-    sha256 cellar: :any_skip_relocation, x86_64_linux: "037239f6f6eeb0ec870e7967062421ee2bd1e470653c5891730b86dd58d647f9"
+    root_url "https://github.com/TomyCesaille/homebrew-tap/releases/download/prtop-0.2.0"
+    sha256 cellar: :any_skip_relocation, arm64_tahoe:  "56b6a3664e3a3c995404e0d78e8d9f529f2a3fce94d5ffe6fe963417d54b7dc9"
+    sha256 cellar: :any_skip_relocation, x86_64_linux: "10e233ac5d5ced347c659129be465d7a0a8996b37eb9ed45c7d0141f3530f40a"
   end
 
   depends_on "gh"
