@@ -3,8 +3,8 @@ class Prtop < Formula
 
   desc "Live terminal table of your merge and pull requests, from review to production"
   homepage "https://github.com/TomyCesaille/prtop"
-  url "https://github.com/TomyCesaille/prtop/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "6e2d74907f3534ca9de8f7ede2d3e1341d0fddc410982731a45b2c70cca27f97"
+  url "https://github.com/TomyCesaille/prtop/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "ddd68bf547e5196c7077b742c6cfbddc6c4de3a7de6851ab6a66180beff82584"
   license "MIT"
 
   bottle do
